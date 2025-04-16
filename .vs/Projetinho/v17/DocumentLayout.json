@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\projetinho\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|solutionrelative:projetinho\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|c:\\users\\tecnico\\documents\\alunos\\marya\\projetinho\\projetinho\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|solutionrelative:projetinho\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\projetinho\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|solutionrelative:projetinho\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\projetinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|solutionrelative:projetinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\projetinho\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|solutionrelative:projetinho\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\projetinho\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|solutionrelative:projetinho\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\projetinho\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\projetinho\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|solutionrelative:projetinho\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\projetinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F487FBD3-A7F8-41A7-93D5-D748048E4C47}|Projetinho\\Projetinho.csproj|solutionrelative:projetinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Projetinho\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Pessoa.cs",
-              "RelativeToolTip": "Projetinho\\Pessoa.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T22:40:02.685Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Projetinho\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Pessoa.cs",
+              "RelativeToolTip": "Projetinho\\Pessoa.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:40:02.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ClienteVip.cs",
               "DocumentMoniker": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\ClienteVip.cs",
               "RelativeDocumentMoniker": "Projetinho\\ClienteVip.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Gerente.cs",
               "DocumentMoniker": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Gerente.cs",
               "RelativeDocumentMoniker": "Projetinho\\Gerente.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Funcionario.cs",
               "RelativeDocumentMoniker": "Projetinho\\Funcionario.cs",
@@ -87,31 +87,34 @@
               "RelativeToolTip": "Projetinho\\Funcionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T22:41:51.62Z"
+              "WhenOpened": "2025-04-15T22:41:51.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Cliente.cs",
               "RelativeDocumentMoniker": "Projetinho\\Cliente.cs",
               "ToolTip": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Cliente.cs",
               "RelativeToolTip": "Projetinho\\Cliente.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T22:40:44.08Z"
+              "WhenOpened": "2025-04-15T22:40:44.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Program.cs",
               "RelativeDocumentMoniker": "Projetinho\\Program.cs",
               "ToolTip": "C:\\Users\\Tecnico\\Documents\\alunos\\marya\\Projetinho\\Projetinho\\Program.cs",
               "RelativeToolTip": "Projetinho\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T22:38:59.095Z"
+              "WhenOpened": "2025-04-15T22:38:59.095Z",
+              "EditorCaption": ""
             }
           ]
         }

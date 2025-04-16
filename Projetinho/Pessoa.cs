@@ -25,20 +25,20 @@ namespace Projetinho
         protected string email;
         public string Email
         {
-            get { return email; }
+            get { return email.ToUpper(); }
             set { email = value; }
         }
 
         public void exibirDados() {
-            Console.WriteLine("O seu nome é: {0}", nome);
-            Console.WriteLine("O seu email é: {1}",email);
+            Console.WriteLine("O seu nome é: {0}", Nome);
+            Console.WriteLine("O seu email é: {1}",Email);
 
         }
 
-        public void cadastrar() { 
+        public virtual void cadastrar() { 
             Console.WriteLine("Digite seu nome:");
             this.Nome = Console.ReadLine();
-            Console.WriteLine("Digite seu email:");
+            Console.WriteLine("Digite seu e-mail:");
             this.Email = Console.ReadLine();
         }
     }

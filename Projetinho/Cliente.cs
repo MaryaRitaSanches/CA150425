@@ -10,9 +10,11 @@ namespace Projetinho
     {
         protected int id = 0;
 
-        public void cadastrar()
+        public override void cadastrar()
         {
-            Console.WriteLine("O seu Código de Identificação é: {0}", id++);
+            base.cadastrar();
+            Console.WriteLine("Digite o seu id:");
+            this.id = int.Parse(Console.ReadLine()); 
         }
         public void exibirCliente()
         {
