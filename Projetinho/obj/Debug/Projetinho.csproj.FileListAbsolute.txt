@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Documents\alunos\marya\Projetinho\Projetinho\bin\Debug\Projetinho.exe.config
+C:\Users\Tecnico\Documents\alunos\marya\Projetinho\Projetinho\bin\Debug\Projetinho.exe
+C:\Users\Tecnico\Documents\alunos\marya\Projetinho\Projetinho\bin\Debug\Projetinho.pdb
+C:\Users\Tecnico\Documents\alunos\marya\Projetinho\Projetinho\obj\Debug\Projetinho.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Documents\alunos\marya\Projetinho\Projetinho\obj\Debug\Projetinho.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Documents\alunos\marya\Projetinho\Projetinho\obj\Debug\Projetinho.exe
+C:\Users\Tecnico\Documents\alunos\marya\Projetinho\Projetinho\obj\Debug\Projetinho.pdb
