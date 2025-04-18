@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,7 +18,7 @@ namespace Projetinho
         }
         public void exibirCliente()
         {
-            
+            Console.WriteLine("O seu Código de identificação é:{0}", this.id);
         }
     }
 }
