@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,13 +10,15 @@ namespace Projetinho
     {
         public string setor;
 
-        public void definirSetor()
+       public override void cadastrar()
         {
-            setor = "Tecnologia da Informação";
+            base.cadastrar();
+            Console.WriteLine("Digite o seu setor");
+            this.setor = Console.ReadLine();
         }
         public void exibirSetor()
         {
-            Console.WriteLine("O seu setor é:", setor);
+            Console.WriteLine("O seu setor é:", this.setor);
         }
     }
 }
